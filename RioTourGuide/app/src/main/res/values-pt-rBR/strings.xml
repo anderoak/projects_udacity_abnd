@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Rio - Guia Turístico</string>
-    <string name="category_restaurants">Comida</string>
-    <string name="category_shoppings">Compras</string>
-    <string name="category_attractions">Lazer</string>
-</resources>

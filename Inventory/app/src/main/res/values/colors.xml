@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="colorPrimary">#2e7d32</color>
-    <color name="colorPrimaryDark">#005005</color>
-    <color name="colorAccent">#60ad5e</color>
-
-    <!-- Catalog list strip background-->
-    <color name="back_strip">#cdf1c3</color>
-</resources>
