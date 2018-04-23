@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_news">No news found.</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="type_search">Type here your search</string>
+    <string name="waiting_search">"Waiting for your search..."</string>
+    <string name="empty_state_string" translatable="false"></string>
+    <string name="error_response_code" translatable="false">Error response code: </string>
+    <string name="problem_retiving" translatable="false">Problem retrieving the news JSON results.</string>
+    <string name="problem_parsing" translatable="false">Problem parsing the news JSON results</string>
+    <string name="problem_http" translatable="false">Problem making the HTTP request</string>
+    <string name="problem_bulid_url" translatable="false">Problem making the HTTP request</string>
+    <string name="problem_date" translatable="false">Date converting problem</string>
+    <string name="app_name">News</string>
+    <string name="test_title" translatable="false">Space X subiu mais uma vez ao espaço</string>
+    <string name="test_section" translatable="false">Ciência</string>
+    <string name="test_data_publ" translatable="false">16-03-2018</string>
+    <string name="query_param" translatable="false">"&amp;show-fields=thumbnail&amp;api-key=test"</string>
+    <string name="news_imagem">Ilustrative image of the news</string>
+</resources>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical"
+    tools:context="com.example.android.musically.MainActivity">
+
+    <TextView
+        style="@style/description"
+        android:text="@string/descArtist" />
+
+    <LinearLayout style="@style/linearMenu1">
+
+        <LinearLayout style="@style/linearMenu2">
+
+            <TextView
+                android:id="@+id/playList"
+                style="@style/navButton"
+                android:text="@string/play_list" />
+
+            <TextView
+                android:id="@+id/artists"
+                style="@style/navSelected"
+                android:text="@string/artists" />
+
+            <TextView
+                android:id="@+id/albums"
+                style="@style/navButton"
+                android:text="@string/albums" />
+
+            <TextView
+                android:id="@+id/musics"
+                style="@style/navButton"
+                android:text="@string/musics" />
+
+            <TextView
+                android:id="@+id/musicStore"
+                style="@style/navButton"
+                android:text="@string/music_store" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/searchArtist"
+        style="@style/searchField"
+        android:hint="@string/searchArtist" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3.2">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorWhite"
+            android:orientation="vertical">
+
+            <TextView
+                style="@style/artistRecord"
+                android:text="@string/artistA" />
+
+            <TextView
+                android:id="@+id/sampleArtist"
+                style="@style/artistRecord"
+                android:background="@color/colorAccent"
+                android:text="@string/artistB" />
+
+            <TextView
+                style="@style/artistRecord"
+                android:text="@string/artistC" />
+
+            <TextView
+                style="@style/artistRecord"
+                android:text="@string/artistD" />
+
+            <TextView
+                style="@style/artistRecord"
+                android:text="@string/artistE" />
+
+            <TextView
+                style="@style/artistRecord"
+                android:text="@string/artistF" />
+
+            <TextView
+                style="@style/artistRecord"
+                android:text="@string/artistG" />
+
+            <TextView
+                style="@style/artistRecord"
+                android:text="@string/artistH" />
+
+            <TextView
+                style="@style/artistRecord"
+                android:text="@string/artistI" />
+
+            <TextView
+                style="@style/artistRecord"
+                android:text="@string/artistJ" />
+
+            <TextView
+                style="@style/artistRecord"
+                android:text="@string/artistJ" />
+
+            <TextView
+                style="@style/artistRecord"
+                android:text="@string/artistK" />
+
+            <TextView
+                style="@style/artistRecord"
+                android:text="@string/artistL" />
+
+            <TextView
+                style="@style/artistRecord"
+                android:text="@string/artistM" />
+
+            <TextView
+                style="@style/artistRecord"
+                android:text="@string/artistN" />
+
+            <TextView
+                style="@style/artistRecord"
+                android:text="@string/artistO" />
+
+            <TextView
+                style="@style/artistRecord"
+                android:text="@string/artistP" />
+
+            <TextView
+                style="@style/artistRecord"
+                android:text="@string/artistQ" />
+
+            <TextView
+                style="@style/artistRecord"
+                android:text="@string/artistR" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

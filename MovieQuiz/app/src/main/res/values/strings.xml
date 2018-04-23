@@ -1,0 +1,34 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Movie Quiz</string>
+    <string name="question1_title">Question 1</string>
+    <string name="question1">What movie is this scene from?</string>
+    <string name="question1_answer1" translatable="false">Harry Potter</string>
+    <string name="question1_answer2" translatable="false">Star Wars</string>
+    <string name="question1_answer3" translatable="false">E.T.</string>
+    <string name="question1_answer4" translatable="false">Batman</string>
+    <string name="question2_title">Question 2</string>
+    <string name="question2">Which movie has a car with that plate?</string>
+    <string name="question2_answer1" translatable="false">Transformes</string>
+    <string name="question2_answer2">Back to The Future</string>
+    <string name="question2_answer3">The Fast and the Furious</string>
+    <string name="question2_answer4">Day of Thunder</string>
+    <string name="question3_title">Question 3</string>
+    <string name="question3">What character has this hand?</string>
+    <string name="question3_answer1" translatable="false">Batman</string>
+    <string name="question3_answer2" translatable="false">Logan</string>
+    <string name="question3_answer3">Black Panther</string>
+    <string name="question3_answer4" translatable="false">Wolverine</string>
+    <string name="question4_title">Question 4</string>
+    <string name="question4">What is the name of this character?</string>
+    <string name="question4_answer1">Type the answer here</string>
+    <string name="question5_title">Question 5</string>
+    <string name="question5">What is the real name of Darth Vader?</string>
+    <string name="question5_answer1" translatable="false">Obi Wan Kenobi</string>
+    <string name="question5_answer2" translatable="false">Mace Windu</string>
+    <string name="question5_answer3" translatable="false">Qui Gon Jinn</string>
+    <string name="question5_answer4" translatable="false">Anakin Skywalker</string>
+    <string name="check">Check</string>
+    <string name="congrats">Great! You hit all questions.</string>
+    <string name="missed">You missed all questions…</string>
+    <string name="hit">You hit <xliff:g id="score" example="1">%1$s</xliff:g> of the 5 questions.</string>
+</resources>

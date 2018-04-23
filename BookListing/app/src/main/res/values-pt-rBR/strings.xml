@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lista de livros</string>
+    <string name="waiting_search">Aguardando sua pesquisa...</string>
+    <string name="type_search">Digite aqui sua pesquisa</string>
+    <string name="no_internet_connection">Sem conexão de Internet.</string>
+    <string name="no_books">Nenhum livro encontrado.</string>
+</resources>

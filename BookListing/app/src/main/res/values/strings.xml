@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_books">No books found.</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="type_search">Type here your search</string>
+    <string name="waiting_search">"Waiting for your search..."</string>
+    <string name="empty_state_string" translatable="false"></string>
+    <string name="error_response_code" translatable="false">Error response code: </string>
+    <string name="problem_retiving" translatable="false">Problem retrieving the book JSON results.</string>
+    <string name="problem_parsing" translatable="false">Problem parsing the book JSON results</string>
+    <string name="app_name">Book Listing</string>
+    <string name="test_title" translatable="false">Android para Desenvolvedores</string>
+    <string name="test_author" translatable="false">LUCIO CAMILO OLIVA PEREIRA</string>
+    <string name="test_publisher" translatable="false">Brasport</string>
+</resources>

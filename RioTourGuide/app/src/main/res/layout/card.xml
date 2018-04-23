@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout style="@style/Card">
+
+        <ImageView
+            android:id="@+id/image_view"
+            style="@style/Images"
+            tools:src="@drawable/h01_mdpi" />
+
+        <LinearLayout style="@style/TextBox">
+
+            <TextView
+                android:id="@+id/title_view"
+                style="@style/ItemTitle"
+                tools:text="Miramar Hotel" />
+
+            <TextView
+                android:id="@+id/address_view"
+                style="@style/ItemAddress"
+                tools:text="Av. Atlântica, 3668, Copacabana" />
+
+            <TextView
+                android:id="@+id/site_view"
+                style="@style/ItemSite"
+                tools:text="miramarhotelbywindsor.com.br" />
+
+            <TextView
+                android:id="@+id/phone_view"
+                style="@style/ItemPhone"
+                tools:text="(21) 2195-6200" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notícias</string>
+    <string name="waiting_search">Aguardando sua pesquisa...</string>
+    <string name="type_search">Digite aqui sua pesquisa</string>
+    <string name="no_internet_connection">Sem conexão de Internet.</string>
+    <string name="no_news">Nenhuma notícia encontrada.</string>
+    <string name="news_imagem">Imagem ilustrativa da notícia</string>
+</resources>
